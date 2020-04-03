@@ -2,3 +2,6 @@
 @import "reset.css";
 @import "typography.css";
 
+* {
+    color: rebeccapurple;
+}
